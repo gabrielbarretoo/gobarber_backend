@@ -1,0 +1,11 @@
+.idea/
+.vccode/
+node_modules/
+build/
+tmp/
+.env
+coverage
+ormconif.json
+
+tmp/*
+!tmp/.gitignore
